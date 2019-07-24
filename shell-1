@@ -1,0 +1,1 @@
+a=10; if [$a -lt 15];then echo you are right ;fi
